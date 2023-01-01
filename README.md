@@ -11,11 +11,11 @@ The UK Department of Transport provides open datasets on road safety and casualt
 
 The dataset has three tables:
 
-Accident: It contains information related to the location of each accident, the number of casualties that occurred, temporal data, and weather conditions on the day of the accident.
+- Accident: It contains information related to the location of each accident, the number of casualties that occurred, temporal data, and weather conditions on the day of the accident.
 
-Vehicle: It has all the necessary information about the vehicle and its driver.
+- Vehicle: It has all the necessary information about the vehicle and its driver.
 
-Vehicle_Type: It contains more information about the vehicle involved in an accident.
+- Vehicle_Type: It contains more information about the vehicle involved in an accident.
 
 ### Problem
 Use aggregate functions in SQL and Python to answer the following sample questions:
